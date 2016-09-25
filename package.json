@@ -1,0 +1,8 @@
+{
+  "name": "template-provider-loader",
+  "version": "0.0.1",
+  "description": "webpack loader for lazy angular templates",
+  "main": "index.js",
+  "author": "Ben Cook @blx",
+  "license": "ISC"
+}
